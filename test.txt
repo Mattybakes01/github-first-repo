@@ -1,2 +1,7 @@
-Hello github
+Hello
+<<<<<<< HEAD
 
+=======
+Second commit
+Adding to the Dev Branch here
+>>>>>>> dev
