@@ -1,6 +1,4 @@
 Hello
-<<<<<<< HEAD
 
-=======
 Second commit
 Adding to the Dev Branch here
